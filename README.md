@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="38" alt="Hey"/>
-  Hey there! I'm <strong>Md. Alamin Sujon</strong>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" alt="Hey"/>
+  Hi, I'm <strong>Md. Alamin Sujon</strong> 👋
 </h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/GQXPKmr9/1720236348340.jpg" alt="Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"/>
+  <img src="https://i.ibb.co/GQXPKmr9/1720236348340.jpg" alt="Banner" width="100%" style="border-radius: 16px;"/>
 </p>
 
 <p align="center">
-  <strong>Full Stack Engineer</strong> • Passionate about scalable & high-performance web applications
+  <strong>Full Stack Engineer</strong> | MERN • Next.js • NestJS • Docker Specialist
 </p>
 
 <div align="center">
@@ -27,28 +27,54 @@
 
 ### 👨‍💻 About Me
 
-I'm a dedicated **Full Stack Developer** with expertise in building modern, scalable, and user-centric web applications. From intuitive frontends to robust backends and DevOps, I focus on delivering clean, maintainable, and high-performance solutions.
+Passionate **Full Stack Software Engineer** with a strong foundation in building scalable, high-performance web applications. I specialize in the **JavaScript/TypeScript** ecosystem and love architecting solutions from the ground up — from beautiful, responsive user interfaces to robust, secure, and maintainable backend systems.
 
-- 🌱 Currently exploring **System Design**, **Microservices Architecture**, and **Advanced DevOps**
-- 💡 Strong believer in clean code, TypeScript, and excellent developer experience
-- 🎯 Love solving complex problems and turning ideas into reality
+With hands-on experience in modern frameworks like **Next.js**, **NestJS**, and containerization tools like **Docker**, I focus on writing clean, efficient code and delivering exceptional user experiences.
 
----
-
-### 🛠️ Tech Stack
-
-**Frontend**  
-`React` • `Next.js` • `TypeScript` • `Tailwind CSS`
-
-**Backend**  
-`Node.js` • `Express.js` • `NestJS` • `Prisma`
-
-**Database & Tools**  
-`MongoDB` • `PostgreSQL` • `Redis` • `Docker` • `Firebase`
+- 🌱 Currently diving deeper into **Microservices**, **System Design**, and **Cloud-Native Development**
+- 🔥 Always optimizing performance, improving DX, and exploring new technologies
+- 🎯 I thrive on turning complex problems into simple, elegant solutions
 
 ---
 
-### 📊 GitHub Stats (Custom Dark Theme)
+### 🛠️ Tech Stack & Tools
+
+#### Frontend & UI
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+
+#### Backend & Frameworks
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+</div>
+
+#### Database & Caching
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+</div>
+
+#### DevOps & Others
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+</div>
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
 
@@ -59,12 +85,23 @@ I'm a dedicated **Full Stack Developer** with expertise in building modern, scal
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-amin07&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al-amin07&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" alt="Top Languages"/>
 </div>
 
 ---
 
-### 📫 Let's Connect
+### 🚀 Featured Projects
+
+*(Add 3–4 of your best projects here with short descriptions and tech stacks)*
+
+- **[Project Name](link)** — Short description. Tech: Next.js, NestJS, Docker, PostgreSQL
+- **[Project Name](link)** — Short description. Tech: React, Node.js, Redis, MongoDB
+
+---
+
+### 📫 Get In Touch
+
+I'm always open to interesting opportunities, collaborations, or just a good tech conversation.
 
 - **Email**: [alsujon2001@gmail.com](mailto:alsujon2001@gmail.com)
 - **LinkedIn**: [Md. Alamin Sujon](https://www.linkedin.com/in/alamin-sujon/)
@@ -72,5 +109,10 @@ I'm a dedicated **Full Stack Developer** with expertise in building modern, scal
 ---
 
 <p align="center">
-  <i>"Building the future, one line of code at a time."</i>
+  <strong>"Code is like humor. When you have to explain it, it’s bad."</strong><br>
+  — Cory House
+</p>
+
+<p align="center">
+  Made with ❤️ and lots of ☕
 </p>
